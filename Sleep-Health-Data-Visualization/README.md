@@ -27,7 +27,7 @@ Tharmalingam, L. (2024). *Sleep Health and Lifestyle Dataset*. [Data set]. Kaggl
 - Discussion of results
 - Reference cited
 
-### Summary of Results
+### Summary
 - `Sleep.Duration` varies among `Occupation`.
 - For both females and males, stress levels decreased with increased amounts of sleep, indicating a negative association between `Stress.Level` and `Sleep.Duration`.
 - `Quality.of.Sleep` had a positive association with `Sleep.Duration` for both individuals with sleeping disorders and without. However, for `Insomnia` and `Sleep Apnea`, getting 6 hours of sleep or less greatly lowers `Quality.of.Sleep`compared to individuals without a sleeping disorder.
