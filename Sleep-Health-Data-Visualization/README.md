@@ -1,5 +1,6 @@
-# Sleep Health Data Visualization Project
+# Sleep Health Data Visualization
 
+### Description
 This folder contains the information and final report for my personal data visualization project in R, which focuses on exploring the effects that demographic and lifestyle variables may have on sleep health through data analysis and visualizations. Techniques highlighted throughout this project include data cleaning and manipulation, analysis, and visualization creation. The *Sleep_health_and_lifestyle_dataset.csv* dataset was used; it was created by Tharmalingam (2024) and was downloaded from Kaggle.
 
 ### Data Source and Information
@@ -23,7 +24,7 @@ Tharmalingam, L. (2024). *Sleep Health and Lifestyle Dataset*. [Data set]. Kaggl
 - Read-in *Sleep_health_and_lifestyle_dataset.csv*
 - Identified trends within the data through calculated summary statistics
 - Used summary statistics to manipulate the data and draw comparisons between variables
-- Employed `ggplot2` to create data visualizations that represent overall findings and trends
+- Created `ggplot2`data visualizations, including boxplots, scatterplots, and line graphs that represent findings and trends in the dataset
 - Discussion of results
 - Reference cited
 
