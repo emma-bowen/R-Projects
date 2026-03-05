@@ -21,12 +21,11 @@ Tharmalingam, L. (2024). *Sleep Health and Lifestyle Dataset*. [Data set]. Kaggl
 - `ggplot2`
 
 ### Methods
-- Read-in *Sleep_health_and_lifestyle_dataset.csv*
-- Identified trends within the data through calculated summary statistics
-- Used summary statistics to manipulate the data and draw comparisons between variables
-- Created `ggplot2`data visualizations, including boxplots, scatterplots, and line graphs that represent findings and trends in the dataset
-- Discussion of results
-- Reference cited
+- Read-in *Sleep_health_and_lifestyle_dataset.csv*.
+- Identified trends within the data through calculated summary statistics.
+- Used summary statistics to manipulate the data and draw comparisons between variables.
+- Created `ggplot2`data visualizations, including boxplots, scatterplots, and line graphs that represent findings and trends in the dataset.
+- Discussion of results.
 
 ### Summary
 - `Sleep.Duration` varies among `Occupation`.
