@@ -15,7 +15,7 @@ Tharmalingam, L. (2024). *Sleep Health and Lifestyle Dataset*. [Data set]. Kaggl
 ### Project Files
 - `Sleep_Health_Data_Visualization_files/figure-gfm` - contains the figure data visualizations created in this project.
 - `Sleep_Health_Data_Visualization.Rmd` - the Rmarkdown file.
-- `Sleep_Health_Data_Visualization.html` - the knitted HTML saved file.
+- `Sleep_Health_Data_Visualization.html` - the knitted HTML saved file can be downloaded here.
 - `Sleep_Health_Data_Visualization.md` - the knitted github document file.
 
 ### R Packages
