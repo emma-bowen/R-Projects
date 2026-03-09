@@ -13,8 +13,10 @@ This folder contains the information and final report for my personal data visua
 Tharmalingam, L. (2024). *Sleep Health and Lifestyle Dataset*. [Data set]. Kaggle. <https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyledataset/data>.
 
 ### Project Files
-- `Sleep_Health_Data_Visualization.Rmd`
-- `Sleep_Health_Data_Visualization.html`
+- `Sleep_Health_Data_Visualization_files/figure-gfm` - contains the figure data visualizations created in this project.
+- `Sleep_Health_Data_Visualization.Rmd` - the Rmarkdown file.
+- `Sleep_Health_Data_Visualization.html` - the knitted HTML saved file.
+- `Sleep_Health_Data_Visualization.md` - the knitted github document file.
 
 ### R Packages
 - `tidyverse`
