@@ -1,7 +1,7 @@
 # Emma's R Projects Portfolio
 
 ### Welcome
-Hi everyone! My name is Emma Bowen, welcome to my portfolio focusing on my completed R projects! This repository holds my personal R projects, including projects focused on data visualization, ecological modeling, and data/statistical analyses. This repository aims to present my R skills and continue to strength and challenge my knowledge through completion of personal projects. 
+Hi everyone! My name is Emma Bowen, welcome to my portfolio focusing on my completed R projects! This repository holds my personal R projects, focusing on data visualization, ecological modeling, and data/statistical analyses. This repository aims to present my R skills and continue to strength and challenge my knowledge through completion of personal projects. 
 
 
 
