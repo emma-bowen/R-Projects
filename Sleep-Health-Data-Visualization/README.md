@@ -1,7 +1,7 @@
 # How Demographic and Lifestyle Variables Affect Sleep Health
 
 ### Description
-This folder contains the information and final report for my personal data visualization project in R, which focuses on exploring the effects that demographic and lifestyle variables may have on sleep health through data analysis and visualizations. Techniques highlighted throughout this project include data cleaning and manipulation, analysis, and visualization creation. The *Sleep_health_and_lifestyle_dataset.csv* dataset was used; it was created by Tharmalingam (2024) and was downloaded from Kaggle.
+This folder contains the information and final report for my personal data visualization project in R, which focuses on exploring the effects that demographic and lifestyle variables may have on sleep health through data analysis and visualizations. Techniques highlighted throughout this project include data cleaning and manipulation with `tidyverse` including `dplyr`, analysis, and visualization creation with `ggplot2`. The *Sleep_health_and_lifestyle_dataset.csv* dataset was used; it was created by Tharmalingam (2024) and was downloaded from Kaggle.
 
 ### Data Source and Information
 - **Title**: *Sleep_health_and_lifestyle_dataset.csv*
