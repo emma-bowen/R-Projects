@@ -14,7 +14,7 @@ If you would like to contact me, here is my email: emmabowen05@gmail.com
 
 
 ### Project Folders
-- `Sleep-Health-Data-Visualization`
+- `Sleep-Health-Data-Visualization`: https://github.com/emma-bowen/R-Projects/tree/main/Sleep-Health-Data-Visualization
 
 ### Note
 I do have several other R projects I have completed through coursework at ASU. I will not be posting those projects here, but can be shown for employers. Posted here are my personal R projects I have worked on in my free time. Thank you!
